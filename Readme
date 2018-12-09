@@ -1,0 +1,13 @@
+EPFL Machine Learning Project
+
+Implementations.py contains standard algorithm
+
+run.py contains the best model 
+
+imp_functions contains the feature engineering functions
+
+other_model_results contains the training and validation accuracy for the models in implementation.py
+
+proj1_helpers contains the necessary function to run code in other_model_results notebook
+
+
